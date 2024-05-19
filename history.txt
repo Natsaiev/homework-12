@@ -1,0 +1,347 @@
+    1  gitn init
+    2  git init
+    3  git add .
+    4  git status
+    5  git commit -m "first commit"
+    6  git config --global user.email "you@example.com"
+    7  git config --global user.email "quietlaw619@gmail.com"
+    8  git config --global user.email
+    9  git config --global user.name "Andrey"
+   10  git commit -m "first commit"
+   11  git branch -M main
+   12  git remote add origin https://github.com/quetlaw/landing.git
+   13  git push -u origin main
+   14  git remote add origin git@github.com:quetlaw/landing.git
+   15  git push -u origin main
+   16  ssh-keygen -t ed25519 -C "quietlaw619@gmail.com"
+   17  cat ~/c/Users/Gamer/.ssh/id_ed25519.pub
+   18  cd
+   19  ls -la
+   20  cd .ssh/
+   21  ls
+   22  cat id_ed25519.pub 
+   23  git push -u origin main
+   24  git push -u origin main
+   25  git push -u origin main
+   26  git push -u origin main
+   27  git clone git@github.com:quetlaw/Happy-Coaching.git
+   28  git -v
+   29  git config
+   30  git config --global user
+   31  git config --global user.name
+   32  git config --global user.name Andrii Natsaiev
+   33  git config --global user.name
+   34  git config --global user.name 'Andrii Natsaiev'
+   35  git config --global user.name
+   36  clear
+   37  clear
+   38  git config --global user.name 'Andrii Natsaiev'
+   39  git config --global user.name 'Andrii-Natsaiev'
+   40  git config --global user.name
+   41  git config --global user.email natsaievv@gmail.com
+   42  git config --global user.email
+   43  code .
+   44  pwd
+   45  cd
+   46  ssh-keygen
+   47  cat
+   48  cat .ssh/
+   49  cat .ssh/id_ed25519.pub 
+   50  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   51  cat .ssh/id_rsa.pub
+   52  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   53  cdd
+   54  cd
+   55  df > 1.txt
+   56  scp 1.txt ec2-user@linux.itcareerhub.de:/opt/040324-wd/quietlaw
+   57  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.d~
+   58  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   59  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   60  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   61  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   62  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   63  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   64  cd
+   65  cat .ssh/id_rsa.pub 
+   66  cd
+   67  mkdir git
+   68  cd git
+   69  pwd
+   70  echo "# git" >> README.md
+   71  ls
+   72  git init
+   73  git .add
+   74  git .add .
+   75  git add .
+   76  git status
+   77  touch 1.txt
+   78  ls -la
+   79  git status
+   80  git add .
+   81  git status
+   82  git commit -m "first commit"
+   83  git remote add origin git@github.com:Natsaiev/git.git
+   84  git remote -v
+   85  git push -u origin main
+   86  git init
+   87  echo "# test2.0" >> README.md
+   88  ls -a
+   89  git status
+   90  git add .
+   91  git status
+   92  git commit -m "asd"
+   93  s
+   94  git remote add origin git@github.com:Natsaiev/test2.0.git~
+   95  git push -u origin main
+   96  cd
+   97  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   98  cd
+   99  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  100  cd
+  101  $ echo "# git1" >> README.md
+  102  echo "# git1" >> README.md
+  103  ls -l
+  104  ls -l
+  105  git init
+  106  ls -la
+  107  git rev-parse --show-toplevel
+  108  git add .
+  109  history
+  110  git commit -m "first commit"
+  111  git status
+  112  git remote add origin git@github.com:Natsaiev/git1.git
+  113  git push -u origin main
+  114  clear
+  115  ls -la
+  116  nano README.md 
+  117  git status
+  118  git add .
+  119  git status
+  120  git commit -m "ssssssss"
+  121  git push
+  122  git remote -v
+  123  git branch 
+  124  git branch test
+  125  git branch 
+  126  git checkout test
+  127  ls -la
+  128  touch natsaiev.txt
+  129  git status
+  130  git add natsaiev.txt
+  131  git status
+  132  git commit -m "add file"
+  133  git push --set upstream origin test
+  134  git push --m origin test
+  135  git push --set -upstream origin test
+  136  git push --set-upstream origin test
+  137  git branch
+  138  git branch -d test
+  139  git checkout main
+  140  git branch -d test
+  141  git branch
+  142  git log
+  143  ls -la
+  144  git clone git@github.com:aliaskov/bashscripts.git
+  145  cd bashscripts
+  146  ls -la
+  147  nano .gitignore
+  148  echo "# git_intro" >> README.md
+  149  git init
+  150  git add README.md
+  151  ls -la
+  152  git add 5.2410a2d.jpg
+  153  git commit -m "Added photo"
+  154  git remote add origin git@github.com:Natsaiev/git_intro.git
+  155  git push -u origin main
+  156  Today's date: 
+  157  Hello, Andrii!
+  158  Currently working directory: /root
+  159  Number of bioset processes: 10
+  160  ermissions
+  161  Today's date: 
+  162  Hello, Andrii!
+  163  Currently working directory: /root
+  164  Number of bioset processes: 10
+  165  ermissions
+  166  cd
+  167  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  168  cd
+  169  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  170  git init
+  171  git add .
+  172  git commit -m "first coommit"
+  173  git branch -M main
+  174  git remote add origin git@github.com:Natsaiev/git-12.git
+  175  git push -u origin main
+  176  git init
+  177  echo "# git-12" >> README.md
+  178  git init
+  179  git add README.md
+  180  git commit -m "first commit"
+  181  git remote add origin git@github.com:Natsaiev/git-12.git
+  182  git remote add origin git@github.com:Natsaiev/git-12.git
+  183  ls -la
+  184  git checkout -b asd
+  185  nano README.md 
+  186  git commit -m "Edit sssdsd"
+  187  git add .
+  188  git commit -m "Edit sssdsd"
+  189  git log
+  190  ls -la
+  191  git chekout -b main
+  192  git checkout -b main
+  193  git branch -v
+  194  git checkout -b main
+  195  git checkout main
+  196  git merge asd
+  197  git log
+  198  git log --oneline --graph --decorate
+  199  cd
+  200  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  201  cd
+  202  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  203  echo "# git-branch" >> README.md
+  204  git init
+  205  git checkout -b git.ignore
+  206  git checkout main
+  207  git checkout -b main
+  208  git checkout -d git.ignore
+  209  git checkout -b gitignore
+  210  git checkout main
+  211  git checkout -b gitignore
+  212  git checkout -b main
+  213  git checkout -b .gitignore
+  214  git checkout -b gitignore
+  215  nano .gitignore
+  216  git add .
+  217  git commit -ma "first commit"
+  218  git commit -m "first commit"
+  219  git push origin gitignore
+  220  git init
+  221  git checkout -b ginignore
+  222  nano .gitignore
+  223  git add .
+  224  git commit -m "first commit"
+  225  git remote add origin git@github.com:Natsaiev/git-branch.git
+  226  git push -u origin main
+  227  git push origin main
+  228  ls -la
+  229  chmod 755 .gitignore 
+  230  git push origin main
+  231  git add .
+  232  git commit -m "first commit"
+  233  git init git-branch
+  234  git checkout -b gitignore
+  235  git init
+  236  git checkout -b gitignore
+  237  git add .gitignore
+  238  nano .gitignore
+  239  git add .gitignore
+  240  git cimmit -m "Add .gitignore file"
+  241  git commit -m "Add .gitignore file"
+  242  git push origin gitignore
+  243  cd
+  244  git init git branch
+  245  git checkout -b gitignore
+  246  git init
+  247  git checkout -b gitignore
+  248  nano .gitignore
+  249  git add .
+  250  git commit -m "Add .gitignore file"
+  251  git push origin gitignore
+  252  clear
+  253  echo "# git-branch" >> README.md
+  254  git init
+  255  git add README.md 
+  256  git commit -m "first commit"
+  257  git remote add origin git@github.com:Natsaiev/git-branch.git
+  258  git push origin main
+  259  git checkout -b gitignore
+  260  nano .gitignore
+  261  git add .
+  262  git commit -m "add .gitignore file"
+  263  git push origin gitignore
+  264  git checkout main
+  265  cd
+  266  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  267  ./
+  268  .
+  269  code .
+  270  code .
+  271  cd
+  272  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  273  cd
+  274  cd
+  275  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  276  git clone
+  277  git clone git@github.com:Natsaiev/Fork-PR.git
+  278  ls
+  279  cd fork -PR
+  280  cd Fork -PR
+  281  cd Fork-PR
+  282  git checkout -b Andrii
+  283  nano testAndrii.sh
+  284  ls -la
+  285  nano Task-Andrii.sh 
+  286  chmod 755 Task-Andrii.sh 
+  287  ./Task-Andrii.sh 
+  288  nano Task-Andrii.sh 
+  289  nano Task-Andrii.sh 
+  290  ./Task-Andrii.sh 
+  291  nano Task-Andrii.sh 
+  292  ./Task-Andrii.sh 
+  293  nano Task-Andrii.sh 
+  294  ./Task-Andrii.sh 
+  295  nano Task-Andrii.sh 
+  296  git push
+  297  git add .
+  298  git commit -m "Create task"
+  299  git push origin git@github.com:Natsaiev/Fork-PR.git
+  300  git push origin
+  301  git push origin main
+  302  git status
+  303  nano Task-Andrii.sh 
+  304  git add Task-Andrii.sh 
+  305  git commit -m "create task"
+  306  git push 
+  307  git push --set-upstream origin Andrii
+  308  nano Task-Andrii.sh 
+  309  git log
+  310  nano Task-Andrii.sh 
+  311  nano Task-Andrii.sh 
+  312  git pull
+  313  git rebase main
+  314  ls -la
+  315  git checkout main
+  316  git pull
+  317  cd
+  318  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  319  echo "# homework-12" >> README.md
+  320  git init
+  321  git add README.md
+  322  git clone git@github.com:Natsaiev/homework-12.git
+  323  git checkout -b feature
+  324  git init
+  325  git checkout -b feature
+  326  git add README.md
+  327  echo "# homework-12" >> README.md
+  328  echo "# homework-12" >> .gitignore
+  329  git add .
+  330  git add README.md .gitignore 
+  331  git commit -m "Added README.md and .girignore"
+  332  git push origin feature 
+  333  git push origin feature
+  334  git remote -v
+  335  git remote add origin git@github.com:Natsaiev/homework-12.git
+  336  git push origin feature
+  337  git commit --amend -m "Added README.md and .gitignore ammend"
+  338  git push --force origin feature 
+  339  git checkout main
+  340  git branch -a
+  341  git fetch origin
+  342  git branch -a
+  343  git checkout -b main
+  344  git push -u origin main 
+  345  git merge feature
+  346  git push origin main
+  347  history > history.txt
